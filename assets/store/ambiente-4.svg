@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F2F2F"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#5B4B2C"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="840" y1="180" x2="1360" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4E8C8"/>
+      <stop offset="1" stop-color="#C8AA6F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" rx="70" fill="url(#bg)"/>
+  <text x="110" y="150" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#F2EEE5">Maranata</text>
+  <text x="110" y="220" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500" fill="#D9CBAA">Enxoval</text>
+  <rect x="820" y="180" width="520" height="640" rx="52" fill="url(#panel)" stroke="rgba(255,255,255,0.22)" stroke-width="8"/>
+  <rect x="890" y="300" width="380" height="88" rx="26" fill="#111111"/>
+  <rect x="890" y="420" width="180" height="150" rx="26" fill="#1A1A1A"/>
+  <rect x="1090" y="420" width="180" height="150" rx="26" fill="#1A1A1A"/>
+  <rect x="890" y="600" width="380" height="110" rx="26" fill="#111111"/>
+  <text x="1080" y="265" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#111111">Casa Completa</text>
+  <text x="1080" y="357" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700" fill="#F1E5C7">Vitrine</text>
+  <rect x="110" y="540" width="500" height="120" rx="34" fill="rgba(255,255,255,0.08)"/>
+  <text x="150" y="615" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="700" fill="#F2EEE5">Enxoval</text>
+  <text x="110" y="765" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500" fill="#D9CBAA">Carrossel automático da loja</text>
+</svg>

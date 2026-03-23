@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F4EA"/>
+      <stop offset="1" stop-color="#E3D5BB"/>
+    </linearGradient>
+    <linearGradient id="main" x1="200" y1="180" x2="800" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8AA6F"/>
+      <stop offset="1" stop-color="#A07F3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" rx="90" fill="url(#bg)"/>
+  <rect x="120" y="120" width="760" height="520" rx="56" fill="url(#main)"/>
+  <rect x="180" y="210" width="640" height="340" rx="44" fill="rgba(255,255,255,0.24)"/>
+  <rect x="140" y="700" width="320" height="96" rx="26" fill="#2F2F2F"/>
+  <text x="300" y="761" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="white">OFERTA</text>
+  <text x="500" y="860" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#2F2F2F">Guarda-Roupa</text>
+  <text x="500" y="915" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500" fill="#A07F3A">Casal</text>
+</svg>

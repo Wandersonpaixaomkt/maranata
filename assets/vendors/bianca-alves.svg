@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E3D5BB"/>
+      <stop offset="1" stop-color="#F7F3EA"/>
+    </linearGradient>
+    <linearGradient id="card" x1="180" y1="160" x2="820" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8AA6F"/>
+      <stop offset="1" stop-color="#A07F3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" rx="80" fill="url(#bg)"/>
+  <rect x="70" y="70" width="860" height="860" rx="54" fill="white" fill-opacity="0.64"/>
+  <circle cx="500" cy="360" r="190" fill="url(#card)"/>
+  <circle cx="500" cy="310" r="86" fill="#2F2F2F" fill-opacity="0.18"/>
+  <path d="M266 658c0-123.711 100.289-224 224-224h20c123.711 0 224 100.289 224 224v42H266v-42Z" fill="#2F2F2F" fill-opacity="0.12"/>
+  <rect x="140" y="770" width="720" height="80" rx="26" fill="#2F2F2F"/>
+  <text x="500" y="809" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700" fill="white">Bianca</text>
+  <text x="500" y="885" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500" fill="#A07F3A">Enxoval</text>
+</svg>

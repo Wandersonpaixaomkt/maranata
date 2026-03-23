@@ -1,0 +1,8 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="320" height="320" rx="44" fill="#2F2F2F"/>
+<circle cx="160" cy="122" r="62" fill="#E3D5BB" opacity="0.12"/>
+<circle cx="160" cy="122" r="52" fill="#E3D5BB" opacity="0.18"/>
+<text x="160" y="138" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800" fill="#E3D5BB">JS</text>
+<rect x="36" y="214" width="248" height="54" rx="18" fill="#E3D5BB" opacity="0.12"/>
+<text x="160" y="247" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#E3D5BB">Josiene de Oliveir</text>
+</svg>
