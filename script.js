@@ -141,59 +141,59 @@ const vendorDirectory = [
 
 const offers = [
   {
-    name: "Sofá 3 Lugares Elegance",
+    name: "Sofá 3 Lugares Elegante",
     oldPrice: "R$ 2.499,90",
     newPrice: "R$ 1.999,90",
-    discount: "20% OFF",
+    discount: "20% de desconto",
     image: "assets/offers/sofa-elegance.svg"
   },
   {
     name: "Guarda-Roupa Casal Prime",
     oldPrice: "R$ 3.199,90",
     newPrice: "R$ 2.649,90",
-    discount: "17% OFF",
+    discount: "17% de desconto",
     image: "assets/offers/guarda-roupa-prime.svg"
   },
   {
-    name: "Tênis Casual Urban",
+    name: "Tênis Casual Urbano",
     oldPrice: "R$ 249,90",
     newPrice: "R$ 179,90",
-    discount: "28% OFF",
+    discount: "28% de desconto",
     image: "assets/offers/tenis-urban.svg"
   },
   {
     name: "Jogo de Lençol Premium",
     oldPrice: "R$ 189,90",
     newPrice: "R$ 139,90",
-    discount: "26% OFF",
+    discount: "26% de desconto",
     image: "assets/offers/lencol-premium.svg"
   },
   {
-    name: "Colchão Queen Comfort",
+    name: "Colchão Queen Conforto",
     oldPrice: "R$ 2.099,90",
     newPrice: "R$ 1.699,90",
-    discount: "19% OFF",
+    discount: "19% de desconto",
     image: "assets/offers/colchao-comfort.svg"
   },
   {
-    name: "Rack Horizon 1,80m",
+    name: "Rack Horizonte 1,80m",
     oldPrice: "R$ 1.149,90",
     newPrice: "R$ 899,90",
-    discount: "21% OFF",
+    discount: "21% de desconto",
     image: "assets/offers/rack-horizon.svg"
   },
   {
     name: "Conjunto Fitness Feminino",
     oldPrice: "R$ 159,90",
     newPrice: "R$ 109,90",
-    discount: "31% OFF",
+    discount: "31% de desconto",
     image: "assets/offers/conjunto-fitness.svg"
   },
   {
-    name: "Toalhas Soft Touch Kit",
+    name: "Kit de Toalhas Toque Macio",
     oldPrice: "R$ 119,90",
     newPrice: "R$ 84,90",
-    discount: "29% OFF",
+    discount: "29% de desconto",
     image: "assets/offers/toalhas-soft.svg"
   }
 ];
